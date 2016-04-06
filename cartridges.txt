@@ -1,1 +1,2 @@
-https://github.com/paoloxide/adop-cartridge-hcm.git
+https://github.com/paoloxide/adop-cartridge-hcm-suvra.git
+
